@@ -31,3 +31,4 @@ class SLLNode:  # NODE = data[1].address of next node
         return self.next
     def set_next(self, new_next):
         self.next = new_next
+ 
